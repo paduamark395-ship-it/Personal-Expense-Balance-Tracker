@@ -1,3 +1,0 @@
-# Ignore Flask templates and static files from GitHub's language bar
-templates/** linguist-documentation
-static/** linguist-documentation
