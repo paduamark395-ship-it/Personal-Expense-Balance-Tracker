@@ -1,0 +1,4 @@
+# Force ignore ALL html files from language stats
+*.html linguist-documentation
+*.css linguist-documentation
+*.js linguist-documentation
